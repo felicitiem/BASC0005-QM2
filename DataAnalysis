@@ -20,3 +20,6 @@ df1= df1.groupby(by='MONTH').sum()
 
 # We transpose our dataset to obtain all the variables would be in columns (columns=XXX and lines=XXX)
 df1.T.head()
+
+
+https://gist.github.com/tiphaine-l/00c3b0c868d0de4cf9a98422203d9c42 
