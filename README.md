@@ -1,11 +1,18 @@
 # BASC0005- Quantitative Methods: Data Science and Visualisation group project
 
+In this project, we investigated a real-life research topic - women's safety in London boroughs. 
+
+Our project was based on the following research question: 
+
+In light of the recent Girls Night In and Reclaim these Streets movements, how do the Violence Against Women and Girls (VAWG) occurrences and women’s safety compare across London boroughs during night-time hours since 2001? 
+
 This repository consists of our Jupyter notebooks, on which we have analyzed the questions: 
 
 1) What are the characteristics of London women who have been victims of VAWG (violence against women and girls) offences?
 2) What are the variables that have a relationship with VAWG offences across London boroughs?
 
 The nature of this investigation is a group project conducted by four UCL students for the class BASC0005- Quantitative Methods: Data Science and Visualisation.
+For more information on our project, you can look at our website following this link: https://luizjja.wixsite.com/londonsafetyproject  
 
 ## Requirements 
 
